@@ -1,3 +1,5 @@
+
+
 Created a VPC with two route tables (private i.e. without IGW and public i.e. with IGW) associated with 4 subnets (2 private, 2 public)
 , inside two availability zones.
 
@@ -12,4 +14,3 @@ Configuration details:
 			Ap-south-1b
 - Gateways: Internet Gateway attached to Custon VPC. 
 - Routing Logic: From each AZ one subnet is connect to private Route table and to public Route Table.
-
