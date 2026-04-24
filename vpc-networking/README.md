@@ -2,11 +2,6 @@ Created a VPC with two route tables (private i.e. without IGW and public i.e. wi
 , inside two availability zones.
 
 link to video:
-
-
-
-
-
 Configuration details:
 - CIDR Block: 172.10.10.0/24
 - Subnets:	subnet-01-public
